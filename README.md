@@ -1,3 +1,3 @@
 # learngit
-create branch DEV main
+create a branch DEV main
 
